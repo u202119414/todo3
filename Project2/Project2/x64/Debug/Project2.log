@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\PIERO\source\repos\Project2\Project2\Source.cpp(42,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\PIERO\source\repos\Project2\Project2\Source.cpp(57,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Abeja.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project2.vcxproj -> C:\Users\PIERO\source\repos\Project2\x64\Debug\Project2.exe

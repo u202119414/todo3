@@ -1,0 +1,2 @@
+C:\Users\PIERO\source\repos\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\PIERO\source\repos\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
